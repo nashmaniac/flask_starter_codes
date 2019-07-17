@@ -1,0 +1,2 @@
+TAG='default'
+DEBUG=False
